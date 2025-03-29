@@ -33,8 +33,7 @@ export const metadata: Metadata = {
     icon: [
       {
         url: "https://icons.iconarchive.com/icons/hopstarter/software/128/Half-Life-Counter-Strike-icon.png",
-        sizes: "128x128",
-        type: "image/png"
+       
       }
     ],
   },
