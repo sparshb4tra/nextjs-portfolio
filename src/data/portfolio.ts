@@ -10,6 +10,16 @@ export interface Portfolio {
 export const portfolioData: Portfolio[] = [
   // Example entry
   {
+    title: "Retro Portfolio",
+    description:
+      "Step back in time with this retro-inspired portfolio website, mimicking the classic Mac OS interface! Featuring a draggable desktop, interactive windows, and a built-in Snake game, it showcases my skills and projects with a nostalgic twist. Check it out live and dive into the 90s vibe! 💾🎮",
+    technologies: ["HTML5", "CSS3", "JavaScript"],
+    projectUrl: "https://retro-portfolio-eta.vercel.app",
+    imageUrl: "/retro.png",
+    codeUrl: "https://github.com/sparshb4tra/Retro-website",
+  },
+  
+  {
     title: "Tennis Match Outcome Predictor",
     description:
       "Tennis Match Outcome Predictor uses machine learning to predict ATP match winners based on player stats, surfaces, and past performances. The project is a work in progress, with ongoing model training and optimization. 🚀🎾",
