@@ -25,7 +25,7 @@ export const aboutMe: AboutMe = {
   description:
     "I'm a pre final-year <a href='https://bpitindia.ac.in'>Information Technology student</a>  at Bhagwan Parshuram Institute of Technology with hands-on experience in data analytics and machine learning. <br> <br> My work spans from developing real-time inventory management systems to creating predictive models for student performance and plant disease detection. I'm passionate about building intuitive systems that transform complex data into actionable insights across industries.",
   
-    cvUrl: "https://www.dropbox.com/scl/fi/8n6uvwh84a24l69q5is7w/Resume-Sparsh-Batra.pdf?rlkey=xwn7qwci6hqdmfvh0yamfatot&st=05fc1yq9&dl=0",
+    cvUrl: "https://www.dropbox.com/scl/fi/qp52g3e76cu29hd0ctdr7/SPARSH-BATRA-RESUME.pdf?rlkey=9cs2b6fy77520ihq88dyna3zy&st=mxb86gy0&dl=0",
     email: "me@sbatra.xyz",
     imageUrl:"/pfp.jpg",
   
