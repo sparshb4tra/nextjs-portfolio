@@ -9,6 +9,17 @@ export interface Portfolio {
 
 export const portfolioData: Portfolio[] = [
   // Example entry
+   {
+    title: "Fraud Detection Predictor",
+    description:
+      "A real-time fraud detection app built with Streamlit and deployed on the cloud. Users can simulate financial transactions and instantly predict if they are fraudulent, based on a trained logistic regression model. Features advanced EDA, engineered features like balance differentials, interactive visualizations, and cloud-hosted model loading via Hugging Face.",
+    technologies: ["Python", "scikit-learn", "Matplotlib", "pandas", "numpy", "Streamlit", "cloudpickle", "Hugging Face"],
+    projectUrl: "https://github.com/sparshb4tra/Fraud_Detection",
+    imageUrl: "/fraud.png",
+    codeUrl: "https://github.com/sparshb4tra/Fraud_Detection/blob/main/analysis_model.ipynb",
+  },
+  
+  
   {
     title: "Retro Portfolio",
     description:
