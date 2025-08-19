@@ -11,10 +11,10 @@ export const portfolioData: Portfolio[] = [
   // Example entry
 
 {
-  title: "Nom Nom - Statathon Data Analytics Platform",
-  description:
-    "A comprehensive data analytics platform built for Statathon 2025, featuring interactive data visualization and processing capabilities. Built with Next.js and modern web technologies, this application allows users to upload, analyze, and visualize datasets with advanced statistical insights. Features responsive design, real-time data processing, and intuitive user interface for seamless data exploration and reporting.",
-  technologies: ["Next.js", "TypeScript", "React", "CSS", "JavaScript", "Tailwind CSS", "Data Visualization"],
+  title: "AI-Enhanced Data Cleaning \& Analytics Tool",
+ description:
+  "A free-to-use AI-enhanced data cleaning and analytics tool built for Statathon 2025. Upload CSV or Excel files to automatically detect data quality issues, missing values, outliers, and data types. Features intelligent data imputation, statistical analysis with mean/median/standard deviation calculations, and automated report generation in PDF and HTML formats. Built with Next.js and modern web technologies, offering a responsive drag-and-drop interface for seamless data preprocessing and quality assessment.",
+technologies: ["Next.js", "TypeScript", "React", "Data Processing", "Statistical Analysis", "jsPDF", "File Parsing", "Tailwind CSS"],
   projectUrl: "https://nom-nom-25.vercel.app",
   imageUrl: "/clean.png",
   codeUrl: "https://github.com/sparshb4tra/nom-nom-project-statathon-25",
