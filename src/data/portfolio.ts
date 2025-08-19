@@ -18,7 +18,7 @@ technologies: ["Next.js", "TypeScript", "React", "Data Processing", "Statistical
   projectUrl: "https://nom-nom-25.vercel.app",
   imageUrl: "/clean.png",
   codeUrl: "https://github.com/sparshb4tra/nom-nom-project-statathon-25",
-}
+},
 
   
    {
