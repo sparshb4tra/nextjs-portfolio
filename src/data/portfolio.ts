@@ -9,6 +9,18 @@ export interface Portfolio {
 
 export const portfolioData: Portfolio[] = [
   // Example entry
+
+{
+  title: "Nom Nom - Statathon Data Analytics Platform",
+  description:
+    "A comprehensive data analytics platform built for Statathon 2025, featuring interactive data visualization and processing capabilities. Built with Next.js and modern web technologies, this application allows users to upload, analyze, and visualize datasets with advanced statistical insights. Features responsive design, real-time data processing, and intuitive user interface for seamless data exploration and reporting.",
+  technologies: ["Next.js", "TypeScript", "React", "CSS", "JavaScript", "Tailwind CSS", "Data Visualization"],
+  projectUrl: "https://nom-nom-25.vercel.app",
+  imageUrl: "/clean.png",
+  codeUrl: "https://github.com/sparshb4tra/nom-nom-project-statathon-25",
+}
+
+  
    {
     title: "Fraud Detection Predictor",
     description:
