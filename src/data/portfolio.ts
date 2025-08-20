@@ -10,6 +10,15 @@ export interface Portfolio {
 export const portfolioData: Portfolio[] = [
   // Example entry
 
+  {
+  title: "Interactive Terminal Portfolio Website",
+  description: "A fast, dependency-free, terminal-inspired portfolio website that mimics a command-line interface. Features keyboard-first UX with autocomplete (Tab), command history (↑/↓), and global typing focus. Users can explore portfolio content through terminal commands like 'help', 'projects', 'experience', and 'resume'. Includes multiple themes (dark, light, matrix), sticky bottom prompt with auto-scroll output, and instant load times with zero frameworks. Built with vanilla HTML, CSS, and JavaScript for optimal performance and easy content management through a single configuration file.",
+  technologies: ["HTML5", "CSS3", "Vanilla JavaScript", "Terminal UI", "Responsive Design", "Static Site", "Performance Optimization", "Command Line Interface"],
+  projectUrl: "https://sparsh-cmd-portfolio.vercel.app/",
+  imageUrl: "/cmd-portfolio.png",
+  codeUrl: "https://github.com/sparshb4tra/cmd-portfolio",
+},
+
 {
   title: "AI-Enhanced Data Cleaning \& Analytics Tool",
  description:
