@@ -9,7 +9,16 @@ export interface Portfolio {
 
 export const portfolioData: Portfolio[] = [
   // Example entry
+{
+  title: "Just. Type. It.",
+  description: "A playful, minimal typing test I tuned like a sneaker drop—bold wordmark, clean motion, and a red-on-cream palette that hits. It’s fast, distraction-free, and low-key addictive for chasing WPM PRs.",
+  technologies: ["HTML5", "CSS3", "Vanilla JavaScript", "Accessibility", "Responsive Design", "UI Polish"],
+  projectUrl: "https://just-type-it.vercel.app",
+  imageUrl: "/just-type-it.png",
+  codeUrl: "https://github.com/sparshb4tra/just-type-it"
+},
 
+  
   {
   title: "Interactive Terminal Portfolio Website",
   description: "A fast, dependency-free, terminal-inspired portfolio website that mimics a command-line interface. Features keyboard-first UX with autocomplete (Tab), command history (↑/↓), and global typing focus. Users can explore portfolio content through terminal commands like 'help', 'projects', 'experience', and 'resume'. Includes multiple themes (dark, light, matrix), sticky bottom prompt with auto-scroll output, and instant load times with zero frameworks. Built with vanilla HTML, CSS, and JavaScript for optimal performance and easy content management through a single configuration file.",
