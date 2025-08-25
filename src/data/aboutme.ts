@@ -23,7 +23,8 @@ export const aboutMe: AboutMe = {
   institution: "Bhagwan Parshuram Institute of Technology, GGSIPU",
   // Note that links work in the description
   description:
-    "I'm a final-year <a href='https://bpitindia.ac.in'>Information Technology student</a>  at Bhagwan Parshuram Institute of Technology with hands-on experience in data analytics and machine learning. <br> <br> My work spans from developing real-time inventory management systems to creating predictive models for student performance and plant disease detection. I'm passionate about building intuitive systems that transform complex data into actionable insights across industries.",
+    "Hey! I'm a 21-year-old final-year IT student who gets excited about building things that actually work. I love playing around with data and seeing what stories it can tell—whether that's predicting if a tennis match will go my way or helping farmers figure out why their crops look sick. My projects are a mix of polished apps and messy experiments, but I'm always learning something new from each one.
+<br><br> "I'm really into ML and AI, especially when I can make complex stuff feel simple and useful. I'm always curious about what other people are building and love connecting with folks who share this passion. Right now I'm just looking for opportunities to grow, learn from people who know more than me, and maybe build something cool together.",
   
     cvUrl: "https://www.dropbox.com/scl/fi/i768lg5b8464s8re8nk24/SPARSH-BATRA_Resume.pdf?rlkey=n6jeuzqatjlbwcwkrjk1rpbf6&st=xzvp63np&dl=0",
     email: "me@sbatra.xyz",
