@@ -33,5 +33,5 @@ export const aboutMe: AboutMe = {
   linkedinUsername: "sparsh-b4tra",
   institutionUrl: "https://bpitindia.ac.in",
   // altName: "",
-   secretDescription: "I love dogs.",
+   secretDescription: "I love crows and watermelon🍉.",
 };
